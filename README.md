@@ -19,4 +19,3 @@ Automax Hit is a Python-based application that serves as a part of a web or soft
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/HiteshSharma04/Automax_hit.git
-# Automax_hit
